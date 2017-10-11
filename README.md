@@ -1,2 +1,1 @@
-# where-is-my-fucking-money
-Find out where goes you money... 
+wait n see
