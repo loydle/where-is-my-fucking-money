@@ -1,1 +1,1 @@
-wait n see
+Wait and see!
