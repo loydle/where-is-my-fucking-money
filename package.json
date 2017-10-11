@@ -1,0 +1,24 @@
+{
+  "name": "where-is-my-fucking-money",
+  "version": "1.0.0",
+  "description": "....",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loydle/where-is-my-fucking-money.git"
+  },
+  "author": "mopo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loydle/where-is-my-fucking-money/issues"
+  },
+  "homepage": "https://github.com/loydle/where-is-my-fucking-money#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
